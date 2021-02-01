@@ -1,0 +1,16 @@
+{
+  "name": "canopyMockUp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countdown.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jffry93.github.io/nchMockUp",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
