@@ -337,11 +337,11 @@ img {
 
 @media (max-width: 500px) {
   .countdown-container {
-    top: -60%;
+    top: -65%;
   }
   .newsletter {
     position: relative;
-    bottom: 390px;
+    bottom: 450px;
   }
   .logo {
     font-size: 30px;
@@ -368,17 +368,17 @@ img {
     font-size: 25px;
   }
   .countdown-container {
-    top: -73%;
+    top: -75%;
   }
   .info {
     font-size: 35px;
   }
   .newsletter {
-    bottom: 560px;
+    bottom: 610px;
   }
   .footer {
     max-height: 600px;
-    height: 80vh;
+    height: 90vh;
   }
   .footer-container {
     padding: 0;
